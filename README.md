@@ -21,10 +21,15 @@ then
 . Now replace below things in file
 
 (A) torch_dtype = float32
+
 (B) bf16 : false
+
 (C) tf32 : false
+
 (D) gradient_checkpointing: false
+
 (E)per_device_train_batch_size: 2
+
 (F)Training arguments : max_steps: 200
  ⚡After doing this press Ctrl+X then Y then enter
 <pre> Screen -S gensyn   </pre>
