@@ -37,5 +37,7 @@ then N
 to get private keys and data
 <pre> cat ~/rl-swarm/modal-login/temp-data/userApiKey.json  </pre>
  <pre> cat ~/rl-swarm/modal-login/temp-data/userData.json </pre>
+
+ you will get the swarm.pem file in sftp in termius if you are using google cloud
 go for run
 Thanks
