@@ -27,7 +27,7 @@ then
 (E)per_device_train_batch_size: 2
 (F)Training arguments : max_steps: 200
  ⚡After doing this press Ctrl+X then Y then enter
-<pre> \```Screen -S gensyn   </pre>
+<pre> Screen -S gensyn   </pre>
 <pre> cd $HOME/rl-swarm/  </pre>
 <pre> python3 -m venv .venv && . .venv/bin/activate && ./run_rl_swarm.sh </pre>
 
