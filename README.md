@@ -17,7 +17,7 @@
 <pre> ls   </pre>
 then it will show a file copy the file name 
 then 
-	<pre> nano <file-name> </pre>
+	<pre> nano ....file-name.... </pre>
 . Now replace below things in file
 
 (A) torch_dtype = float32
