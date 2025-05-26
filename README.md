@@ -31,5 +31,11 @@ then
 <pre> cd $HOME/rl-swarm/  </pre>
 <pre> python3 -m venv .venv && . .venv/bin/activate && ./run_rl_swarm.sh </pre>
 
+then select model A
+and then select 32 or 7 
+then N
+to get private keys and data
+<pre> cat ~/rl-swarm/modal-login/temp-data/userApiKey.json  </pre>
+ <pre> cat ~/rl-swarm/modal-login/temp-data/userData.json </pre>
 go for run
 Thanks
