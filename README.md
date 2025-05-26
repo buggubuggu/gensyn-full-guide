@@ -9,6 +9,8 @@
 
 <pre> cd $HOME && [ -d rl-swarm ] && rm -rf rl-swarm; git clone https://github.com/zunxbt/rl-swarm.git && cd rl-swarm   </pre>
 
+
+bf16 error fix code
 <pre> cd $home  </pre>
 
 <pre> sudo apt install nano </pre>
@@ -37,7 +39,10 @@ then
 <pre> python3 -m venv .venv && . .venv/bin/activate && ./run_rl_swarm.sh </pre>
 
 then select model A
-and then select 32 or 7 
+and then select 32 or 7
+It will ask for ngrok authtoken
+link https://dashboard.ngrok.com/
+signup ---> your auttoken---->click on copy and paste on terminal
 then N
 to get private keys and data
 <pre> cat ~/rl-swarm/modal-login/temp-data/userApiKey.json  </pre>
