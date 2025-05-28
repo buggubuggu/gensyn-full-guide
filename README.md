@@ -34,6 +34,7 @@ then
 
 (F)Training arguments : max_steps: 200
  ⚡After doing this press Ctrl+X then Y then enter
+ <pre> sudo apt install screen </pre>
 <pre> screen -S gensyn   </pre>
 <pre> cd </pre>
 <pre> cd $HOME/rl-swarm/  </pre>
